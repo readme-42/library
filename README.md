@@ -50,7 +50,7 @@
       <code>C++</code> <code>게임</code>
     </td>
     <td><a href="https://www.yes24.com/product/goods/161395973">링크</a></td>
-    <td>yourID</td>
+    <td>borlee</td>
   </tr>
 
   <!-- 책 4 -->
