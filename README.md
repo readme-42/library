@@ -77,7 +77,7 @@
       <small>용 추이</small>
     </td>
     <td>
-      <code>파이썬</code> <code>프로그래</code>
+      <code>파이썬</code> <code>프로그래밍</code>
     </td>
     <td><a href="https://www.yes24.com/product/goods/151253343">링크</a></td>
     <td>borlee</td>
