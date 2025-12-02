@@ -89,7 +89,7 @@
       <small>엄정한 , 구민식</small>
     </td>
     <td>
-      <code>특허</code> <code>저작</code>
+      <code>특허</code> <code>저작권</code>
     </td>
     <td><a href="https://product.kyobobook.co.kr/detail/S000201015771">링크</a></td>
     <td>borlee</td>
