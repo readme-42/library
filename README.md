@@ -83,6 +83,21 @@
 
   <!-- 책 6 -->
   <tr>
+    <td><img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791191266726.jpg" width="120"></td>
+    <td>
+      <strong>현업 변리사가 알려주는 지식재산권 스쿨</strong><br>
+      <small>엄정한 , 구민식</small>
+    </td>
+    <td>
+      <code>특허</code> <code>저작</code>
+    </td>
+    <td><a href="https://product.kyobobook.co.kr/detail/S000201015771">링크</a></td>
+    <td>borlee</td>
+  </tr>
+
+
+  <!-- 책 7 -->
+  <tr>
     <td><img src="이미지_URL" width="120"></td>
     <td>
       <strong>책 제목</strong><br>
