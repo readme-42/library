@@ -98,6 +98,36 @@
 
   <!-- 책 7 -->
   <tr>
+    <td><img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791199529854.jpg" width="120"></td>
+    <td>
+      <strong>소프트웨어 아키텍처 The Basics 2판</strong><br>
+      <small>마크 리처즈 , 닐 포드</small>
+    </td>
+    <td>
+      <code>software architecture</code> <code>architecture style</code>
+    </td>
+    <td><a href="https://product.kyobobook.co.kr/detail/S000218641537">링크</a></td>
+    <td>borlee</td>
+  </tr>
+  
+  
+  <!-- 책 8 -->
+  <tr>
+    <td><img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791163037989.jpg" width="120"></td>
+    <td>
+      <strong>Do it! 리눅스 입문</strong><br>
+      <small>박필준</small>
+    </td>
+    <td>
+      <code>리눅스</code> <code>로키</code>
+    </td>
+    <td><a href="https://product.kyobobook.co.kr/detail/S000218685694">링크</a></td>
+    <td>borlee</td>
+  </tr>
+
+  
+  <!-- 책 9 -->
+  <tr>
     <td><img src="이미지_URL" width="120"></td>
     <td>
       <strong>책 제목</strong><br>
