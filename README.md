@@ -43,7 +43,7 @@
   <tr>
     <td><img src="https://image.yes24.com/goods/161395973/XL" width="120"></td>
     <td>
-      <strong><del>언리얼 엔진으로 배우는 게임 디자인 패턴</del>del></strong><br>
+      <strong><del>언리얼 엔진으로 배우는 게임 디자인 패턴</del></strong><br>
       <small>스튜어트 버틀러, 톰 올리버</small>
     </td>
     <td>
