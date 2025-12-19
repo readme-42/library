@@ -43,14 +43,14 @@
   <tr>
     <td><img src="https://image.yes24.com/goods/161395973/XL" width="120"></td>
     <td>
-      <strong>언리얼 엔진으로 배우는 게임 디자인 패턴</strong><br>
+      <strong><del>언리얼 엔진으로 배우는 게임 디자인 패턴</del>del></strong><br>
       <small>스튜어트 버틀러, 톰 올리버</small>
     </td>
     <td>
       <code>C++</code> <code>게임</code>
     </td>
     <td><a href="https://www.yes24.com/product/goods/161395973">링크</a></td>
-    <td>borlee</td>
+    <td>기증 완료 대여 불가</td>
   </tr>
 
   <!-- 책 4 -->
