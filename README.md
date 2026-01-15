@@ -11,17 +11,45 @@
     <th>소유자</th>
   </tr>
 
-  <!-- 책 1 -->
+  
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/22a769f3-6bb5-492e-aaab-78fb0cf81ad8" width="120"></td>
+    <td><img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788966265138.jpg" width="120"></td>
     <td>
-      <strong>핸즈온 바이브 코딩</strong><br>
-      <small>정도현</small>
+      <strong>코틀린&스프링 부트로 개발은 처음인데요</strong><br>
+      <small>정보근</small>
     </td>
     <td>
-      <code>생성형AI</code> <code>프로젝트</code>
+      <code>백엔드</code> <code>코틀린</code> <code>스프링부트</code>
     </td>
-    <td><a href="https://www.yes24.com/product/goods/160603535">링크</a></td>
+    <td><a href="https://product.kyobobook.co.kr/detail/S000218935347">링크</a></td>
+    <td>borlee</td>
+  </tr>
+
+  <!-- 책 8 -->
+  <tr>
+    <td><img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791163037989.jpg" width="120"></td>
+    <td>
+      <strong>Do it! 리눅스 입문</strong><br>
+      <small>박필준</small>
+    </td>
+    <td>
+      <code>리눅스</code> <code>로키</code>
+    </td>
+    <td><a href="https://product.kyobobook.co.kr/detail/S000218685694">링크</a></td>
+    <td>borlee</td>
+  </tr>
+
+  <!-- 책 7 -->
+  <tr>
+    <td><img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791199529854.jpg" width="120"></td>
+    <td>
+      <strong>소프트웨어 아키텍처 The Basics 2판</strong><br>
+      <small>마크 리처즈 , 닐 포드</small>
+    </td>
+    <td>
+      <code>software architecture</code> <code>architecture style</code>
+    </td>
+    <td><a href="https://product.kyobobook.co.kr/detail/S000218641537">링크</a></td>
     <td>borlee</td>
   </tr>
 
@@ -38,21 +66,7 @@
     <td><a href="https://www.yes24.com/product/goods/147738180">링크</a></td>
     <td>borlee</td>
   </tr>
-
-  <!-- 책 3 -->
-  <tr>
-    <td><img src="https://image.yes24.com/goods/161395973/XL" width="120"></td>
-    <td>
-      <strong><del>언리얼 엔진으로 배우는 게임 디자인 패턴</del></strong><br>
-      <small>스튜어트 버틀러, 톰 올리버</small>
-    </td>
-    <td>
-      <code>C++</code> <code>게임</code>
-    </td>
-    <td><a href="https://www.yes24.com/product/goods/161395973">링크</a></td>
-    <td>기증 완료 대여 불가</td>
-  </tr>
-
+  
   <!-- 책 4 -->
   <tr>
     <td><img src="https://github.com/user-attachments/assets/79e46bdc-526c-4b74-a89b-2f6b103f3fd5" width="120"></td>
@@ -95,37 +109,6 @@
     <td>borlee</td>
   </tr>
 
-
-  <!-- 책 7 -->
-  <tr>
-    <td><img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791199529854.jpg" width="120"></td>
-    <td>
-      <strong>소프트웨어 아키텍처 The Basics 2판</strong><br>
-      <small>마크 리처즈 , 닐 포드</small>
-    </td>
-    <td>
-      <code>software architecture</code> <code>architecture style</code>
-    </td>
-    <td><a href="https://product.kyobobook.co.kr/detail/S000218641537">링크</a></td>
-    <td>borlee</td>
-  </tr>
-  
-  
-  <!-- 책 8 -->
-  <tr>
-    <td><img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791163037989.jpg" width="120"></td>
-    <td>
-      <strong>Do it! 리눅스 입문</strong><br>
-      <small>박필준</small>
-    </td>
-    <td>
-      <code>리눅스</code> <code>로키</code>
-    </td>
-    <td><a href="https://product.kyobobook.co.kr/detail/S000218685694">링크</a></td>
-    <td>borlee</td>
-  </tr>
-
-  
   <!-- 책 9 -->
   <tr>
     <td><img src="이미지_URL" width="120"></td>
