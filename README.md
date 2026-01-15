@@ -21,7 +21,7 @@
     <td>
       <code>백엔드</code> <code>코틀린</code> <code>스프링부트</code>
     </td>
-    <td><a href="https://product.kyobobook.co.kr/detail/S000218935347">링크</a></td>
+    <td><a href="https://www.yes24.com/product/goods/171651782">링크</a></td>
     <td>borlee</td>
   </tr>
 
@@ -35,7 +35,7 @@
     <td>
       <code>리눅스</code> <code>로키</code>
     </td>
-    <td><a href="https://product.kyobobook.co.kr/detail/S000218685694">링크</a></td>
+    <td><a href="https://www.yes24.com/product/goods/167498170">링크</a></td>
     <td>borlee</td>
   </tr>
 
@@ -49,7 +49,7 @@
     <td>
       <code>software architecture</code> <code>architecture style</code>
     </td>
-    <td><a href="https://product.kyobobook.co.kr/detail/S000218641537">링크</a></td>
+    <td><a href="https://www.yes24.com/product/goods/167431026">링크</a></td>
     <td>borlee</td>
   </tr>
 
