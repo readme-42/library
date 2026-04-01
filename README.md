@@ -123,6 +123,21 @@
     <td>2026년 02월 06일</td>
   </tr>
 
+  <!-- 책 9 -->
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/e5ca230a-9cce-4b6c-990f-81ac274ac4f0" 
+width="120"></td>
+    <td>
+      <strong>클로드 코드를 활용한 바이브 코딩 완벽 입문</strong><br>
+      <small>히라카와 토모히데</small>
+    </td>
+    <td>
+      <code>클로드코드</code> <code>초급</code>
+    </td>
+    <td><a href="https://product.kyobobook.co.kr/detail/S000219349783">링크</a></td>
+    <td>2026년 03월 12일</td>
+  </tr>
+
   <!-- 책 N -->
   <tr>
     <td><img src="이미지_URL" width="120"></td>
