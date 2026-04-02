@@ -138,6 +138,32 @@ width="120"></td>
     <td>2026년 03월 12일</td>
   </tr>
 
+  <!-- 책 10 -->
+  <tr>
+    <td><img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/480N260103600.jpg" width="120"></td>
+    <td>
+      <strong>[ebook]러스트로 갈아타기</strong><br>
+      <small>릴리 마라 , 조엘 홈즈</small>
+    </td>
+    <td>
+      <code>러스트</code> <code>refactoring</code>
+    </td>
+    <td><a href="https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012530798">링크</a></td>
+    <td>2026년 01월 26일</td>
+  </tr>
+  <!-- 책 11 -->
+  <tr>
+    <td><img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791175790230.jpg" width="120"></td>
+    <td>
+      <strong>레트로의 유니티 성능 최적화</strong><br>
+      <small>이제민</small>
+    </td>
+    <td>
+      <code>유니티</code> <code>최적화</code>
+    </td>
+    <td><a href="https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012683927">링크</a></td>
+    <td>2026년 03월 09일</td>
+  </tr>
   <!-- 책 N -->
   <tr>
     <td><img src="이미지_URL" width="120"></td>
@@ -149,6 +175,6 @@ width="120"></td>
       <code>Tag1</code> <code>Tag2</code>
     </td>
     <td><a href="https://구매링크">링크</a></td>
-    <td>yourID</td>
+    <td>출판일</td>
   </tr>
 </table>
