@@ -155,7 +155,7 @@ width="120"></td>
   <tr>
     <td><img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791175790230.jpg" width="120"></td>
     <td>
-      <strong>레트로의 유니티 성능 최적화</strong><br>
+      <strong>[ebook]레트로의 유니티 성능 최적화</strong><br>
       <small>이제민</small>
     </td>
     <td>
