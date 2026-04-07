@@ -164,6 +164,19 @@ width="120"></td>
     <td><a href="https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012683927">링크</a></td>
     <td>2026년 03월 09일</td>
   </tr>
+  <!-- 책 12 -->
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/756f4a23-b711-46fa-a84b-358a2a6d6aff" " width="120"></td>
+    <td>
+      <strong>이것이 리눅스다(개정4판)</strong><br>
+      <small>우재남</small>
+    </td>
+    <td>
+      <code>Rocky Linux 10</code><br> <code>리눅스 서버 입문서</code>
+    </td>
+    <td><a href="https://product.kyobobook.co.kr/detail/S000219488499">링크</a></td>
+    <td>2026년 03월 16일</td>
+  </tr>
   <!-- 책 N -->
   <tr>
     <td><img src="이미지_URL" width="120"></td>
