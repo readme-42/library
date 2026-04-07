@@ -168,7 +168,7 @@ width="120"></td>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/756f4a23-b711-46fa-a84b-358a2a6d6aff" " width="120"></td>
     <td>
-      <strong>이것이 리눅스다(개정4판)</strong><br>
+      <strong>[ebook]이것이 리눅스다(개정4판)</strong><br>
       <small>우재남</small>
     </td>
     <td>
