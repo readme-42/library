@@ -179,6 +179,19 @@ width="120"></td>
   </tr>
   <!-- 책 N -->
   <tr>
+    <td><img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791175790513.jpg" width="120"></td>
+    <td>
+      <strong>클로드 코드 마스터</strong><br>
+      <small>이남희 , 백승현</small>
+    </td>
+    <td>
+      <code>개발자기술면접노트 저자</code> <code>AI에이전트코</code>
+    </td>
+    <td><a href="https://product.kyobobook.co.kr/detail/S000219725328">링크</a></td>
+    <td>2026년 04월 24일</td>
+  </tr>
+  <!-- 책 N -->
+  <tr>
     <td><img src="이미지_URL" width="120"></td>
     <td>
       <strong>책 제목</strong><br>
