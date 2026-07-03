@@ -25,7 +25,7 @@
   </tr>
 
   <tr>
-    <td><img src="https://image.yes24.com/goods/189818905/XL" width="120"></td>
+    <td><img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791175790599.jpg" width="120"></td>
     <td>
       <strong>[ebook]하네스 엔지니어링 with 클로드 코드</strong><br>
       <small>황민호</small>
