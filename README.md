@@ -98,7 +98,7 @@
     <td>
       <code>안티그래비티</code>
     </td>
-    <td><a href="https://product.kyobobook.co.kr/detail/S000219023454">リンク</a></td>
+    <td><a href="https://product.kyobobook.co.kr/detail/S000219023454">링크</a></td>
     <td>2026년 02월 06일</td>
   </tr>
 
