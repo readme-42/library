@@ -12,6 +12,19 @@
   </tr>
 
   <tr>
+    <td><img src="https://image.aladin.co.kr/product/40087/88/cover500/k072130346_2.jpg" width="120"></td>
+    <td>
+      <strong>나노벤처</strong><br>
+      <small>송인혁, 이은영</small>
+    </td>
+    <td>
+      <code>체인저</code> <code>에이전트</code>
+    </td>
+    <td><a href="https://product.kyobobook.co.kr/detail/S000220996791">링크</a></td>
+    <td>2026년 08월 24일</td>
+  </tr>
+
+  <tr>
     <td><img src="https://github.com/user-attachments/assets/47778572-0b4f-4edd-9999-5dbcaf56a879" width="120"></td>
     <td>
       <strong>AI를 이기는 개발자 커리어 관리 가이드</strong><br>
